@@ -77,7 +77,7 @@ LinkedIn: LinkedIn
 TryHackMe: TryHackMe
 Instagram: Instagram
 YouTube: YouTube
-Email: Virat0794061@gmail.com
+Email: Pk9779817@gmail.com
 License
 This program is released under the MIT LICENSE. See LICENSE for more information.
 
